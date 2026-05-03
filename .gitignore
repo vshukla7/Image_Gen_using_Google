@@ -1,0 +1,6 @@
+playwright_profile/
+downloaded_images/
+__pycache__/
+*.png
+*.jpg
+.env
