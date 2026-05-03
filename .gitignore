@@ -3,4 +3,5 @@ downloaded_images/
 __pycache__/
 *.png
 *.jpg
-.env
+config.bat
+node_modules
